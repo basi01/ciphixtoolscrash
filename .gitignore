@@ -42,3 +42,7 @@ java-version
 
 # /javasource/
 /javasource/system
+/ciphixtoolscrash.mpr.bak
+/ciphixtoolscrash.mpr.lock
+/nativemobile/builds/
+/.svn/
